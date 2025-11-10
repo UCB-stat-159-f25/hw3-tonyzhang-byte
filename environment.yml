@@ -10,5 +10,8 @@ dependencies:
   - scipy=1.13
   - h5py=3.12
   - matplotlib=3.9
-  - scipy=1.13
   - ipykernel=6.29
+  - pytest=8.3
+  - pip
+  - pip:
+      - mystmd
