@@ -1,0 +1,9 @@
+AI tool: OpenAI ChatGPT via Cursor (GPT-5 Codex mode)
+
+Usage summary:
+- Planned repository restructuring, package creation, testing strategy, and documentation tasks.
+- Generated refactored code for `ligotools.utils`, updated notebook cells, and added unit tests for `readligo` and utility functions.
+- Authored configuration files (`pyproject.toml`, `myst.yml`), GitHub Actions workflow, Makefile, and README content.
+- Provided binder links, MyST site structure, and .gitignore patterns.
+
+All generated code and documentation were reviewed and modified as needed before inclusion.
